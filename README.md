@@ -1,0 +1,1 @@
+These are Assignments 1,2, and 3 of Milestone 1 of my Infosys Internship.
